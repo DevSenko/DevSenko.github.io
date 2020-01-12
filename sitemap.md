@@ -3,7 +3,7 @@
 [Home](/)
  ***
 [Socialounge](/socialounge)
-
+***
   [Bot](/socialounge/bot)
   
    [Documentation](socialounge/bot/documentation)
