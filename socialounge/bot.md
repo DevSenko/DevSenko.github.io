@@ -1,4 +1,4 @@
-[Home](/) | [Socialounge](/socialounge) | [Socialounge/Bot](/socialounge/bot) | [Socialounge/Minecraft](/socialounge/minecraft)
+[Home](/) | [Socialounge](/socialounge) | [Socialounge/Bot](/socialounge/bot) | [Socialounge/Minecraft](/socialounge/minecraft) | [Socialounge/Bot/Documentation](/socialounge/bot/documentation)
 
 # Socialounge's Bot
 
