@@ -1,3 +1,5 @@
+[Naviagte This Site](/sitemap)
+
 # Socialouunge's Bot
 
 ## What Is It?
