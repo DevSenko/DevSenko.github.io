@@ -1,6 +1,3 @@
-layout: page
-title: "Socialounge"
-permalink: /socialounge
 
 # Socialounge
 
