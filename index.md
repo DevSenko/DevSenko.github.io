@@ -1,4 +1,4 @@
-[Home](/) | [Socialounge](/socialounge) | [Socialounge/Bot](/socialounge/bot) | [Socialounge/Minecraft](/socialounge/minecraft)
+[Home](/) | [Socialounge](/socialounge) | [Socialounge/Bot](/socialounge/bot) | [Socialounge/Minecraft](/socialounge/minecraft) | [Socialounge/Bot/Documentation](/socialounge/bot/documentation)
 
 # Diligamer
 Thanks For Visiting Diligamer's site! I am newbie in coding, expert in git and a discord.js bot dev. I am Open To Contributions On My Projects.
