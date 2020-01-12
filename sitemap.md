@@ -5,7 +5,7 @@
 [Socialounge](/socialounge)
 ***
   [Bot](/socialounge/bot)
-  
+  ***
    [Documentation](socialounge/bot/documentation)
    
    →[Commands](/socialounge/bot/documentation/commands)
