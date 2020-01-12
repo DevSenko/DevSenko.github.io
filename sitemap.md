@@ -8,11 +8,11 @@
   ---
    [Documentation](socialounge/bot/documentation)
    ---
-   →[Commands](/socialounge/bot/documentation/commands)
+   →[Commands](/socialounge/bot/docs/commands)
    ---
-   →[Rules](/socialounge/bot/documentation/rules)
+   →[Rules](/socialounge/bot/docs/rules)
    ---
-   →[Support](/socialounge/bot/documentation/support)
+   →[Support](/socialounge/bot/docs/support)
    ---
   [Minecraft](/socialounge/minecraft)
   ---
