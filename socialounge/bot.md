@@ -1,6 +1,6 @@
 [Naviagte This Site](/sitemap)
 
-# Socialouunge's Bot
+# Socialounge's Bot
 
 ## What Is It?
 It is a bot that allows the moderation and entertainment of a the [Socialounge](/socialounge) Discord Server
