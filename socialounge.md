@@ -17,7 +17,7 @@ Socialounge Is A Chill and Social Discord Server Where You Can Speak About Anyth
 9. QOTD That Is Actually Daily
 
 ## Our Bot
-You can Learn About our bot [here](diligamer.github.io/socialounge/bot)
+You can Learn About our bot [here](/socialounge/bot)
 
 ## Shut Up And Take My "Money"
-You Can Join [Here](invite.gg/socialounge)
+You Can Join [Here](https://invite.gg/socialounge)
