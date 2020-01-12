@@ -1,6 +1,6 @@
 # Sitemap
 
-→ [Home](/home)
+→ [Home](/)
 
 [Socialounge](/socialounge)
 
