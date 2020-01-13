@@ -19,7 +19,9 @@ Socialounge Is A Chill and Social Discord Server Where You Can Speak About Anyth
 8. Lots Of Minigames, Like Pokecord.
 9. QOTD That Is Actually Daily
 
-## Leaderboard
+## Leaderboards
+
+### Unbelievaboat
  <iframe src="https://unbelievaboat.com/leaderboard/385432040155119617/widget" width="450" height="500" style="border: 0;"></iframe>
                                                                                      
 
@@ -28,3 +30,5 @@ You can Learn About our bot [here](/socialounge/bot)
 
 ## Shut Up And Take My "Money"
 You Can Join [Here](https://invite.gg/socialounge)
+
+ <iframe src="https://discordapp.com/widget?id=385432040155119617&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
