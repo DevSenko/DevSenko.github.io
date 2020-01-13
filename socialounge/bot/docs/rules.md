@@ -1,3 +1,7 @@
+[Go Back](/socialounge/bot/documentation)
+
+## Rules
+
 ## 1.Do Not Abuse The Bot
 The Bot Resources Are Limited.
 
