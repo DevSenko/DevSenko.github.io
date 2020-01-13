@@ -2,9 +2,9 @@
 
 [Socialounge/Bot](/socialounge/bot) | [Socialounge/Minecraft](/socialounge/minecraft) 
 
-[Socialounge/Bot/Documentation](/socialounge/bot/documentation)
+[Socialounge/Bot/Documentation](/socialounge/bot/docs) | 
 
-# Socialounge/Bot/Documentation
+# Socialounge/Bot/Docs
 
 ## Navigate This Documentation
 
