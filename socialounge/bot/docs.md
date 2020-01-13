@@ -1,6 +1,7 @@
 [Home](/) | [Socialounge](/socialounge)
 
 [Socialounge/Bot](/socialounge/bot) | [Socialounge/Minecraft](/socialounge/minecraft) 
+
 [Socialounge/Bot/Documentation](/socialounge/bot/documentation)
 
 # Socialounge/Bot/Documentation
