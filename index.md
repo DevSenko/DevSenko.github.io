@@ -13,10 +13,13 @@ Thanks For Visiting Diligamer's site! I am newbie in coding, expert in git and a
 ## My Socials
 
 1. **Reddit**
+
 u/redtition
 
 2. **Discord**
+
 Keanu Reeves#2137
 
 3. **ROBLOX**
+
 DiligentWho2
