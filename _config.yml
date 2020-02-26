@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: "Diligamer"
 description: "A Discord.js Bot Dev"
+logo: ".src/logo.png"
