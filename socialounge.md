@@ -1,15 +1,7 @@
 [Home](/) | [Socialounge](/socialounge) 
 
-[Socialounge/Bot](/socialounge/bot) | [Socialounge/Minecraft](/socialounge/minecraft)
-
 # Socialounge
-
-
-
-
-
-
-
+[Bot](/socialounge/bot) | [Minecraft](/socialounge/minecraft)
 
 ## What Is It
 Socialounge Is A Chill and Social Discord Server Where You Can Speak About Anything With Anyone!
