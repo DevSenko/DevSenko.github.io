@@ -1,5 +1,5 @@
 [Home](/) | [Projects](/projects) | [About](/about)
-|:--:|:--:|:--:|
+
 
 # History Remover
 Hide Your Homework

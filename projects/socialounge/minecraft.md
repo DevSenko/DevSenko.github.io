@@ -1,5 +1,5 @@
 [Home](/) | [Projects](/projects) | [About](/about)
-|:--:|:--:|:--:|
+
 
 [Bot](/socialounge/bot) | [Minecraft](/socialounge/minecraft)
 

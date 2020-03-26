@@ -1,5 +1,5 @@
 [Home](/) | [Socialounge](/socialounge) | [Projects](/projects)
-|:--:|:--:|:--:|
+
 
 # My Projects
 
