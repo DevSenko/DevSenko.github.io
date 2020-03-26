@@ -1,4 +1,8 @@
-[Home](/) | [Socialounge](/socialounge) | [Projects](/projects)
+[Home](/) | [Projects](/projects) | [About](/about)
+|:--:|:--:|:--:|
 
-# Diligamer
-Thanks For Visiting Diligamer's site! I am newbie in coding, expert in git and a discord.js bot dev. I am Open To Contributions On My Projects.
+# I Build Amazing Experinces
+|  [See My Projects](/projects) |  [See My Work](/work) | [About Me](/about)
+
+
+

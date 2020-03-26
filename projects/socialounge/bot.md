@@ -1,3 +1,6 @@
+[Home](/) | [Projects](/projects) | [About](/about)
+|:--:|:--:|:--:|
+
 # Socialounge's Bot
 
 ## What Is It
