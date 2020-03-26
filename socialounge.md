@@ -1,4 +1,4 @@
-[Home](/) | [Socialounge](/socialounge) 
+[Home](/) | [Socialounge](/socialounge) | [Projects](/projects)
 
 # Socialounge
 [Bot](/socialounge/bot) | [Minecraft](/socialounge/minecraft)
