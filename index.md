@@ -2,7 +2,7 @@
 
 
 # I Build Amazing Experinces
-|[See My Projects](/projects) |  [About Me](/about)
+[See My Projects](/projects) |  [About Me](/about)
 
 
 
