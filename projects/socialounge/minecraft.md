@@ -1,9 +1,11 @@
-[Home](/) | [Projects](/projects) | [About](/about)
-
-
-[Bot](/socialounge/bot) | [Minecraft](/socialounge/minecraft)
+[Home](/) | [Projects](/projects) 
 
 # play.socialounge.net
+[Bot](projects/socialounge/bot) | [Minecraft](projects/socialounge/minecraft)
 
 ## What Is It
-It ia Socialoungw's Minecraft Server.
+It ia Socialounge's Minecraft Server.
+
+## I Need Help
+Help is launched through `/help`
+

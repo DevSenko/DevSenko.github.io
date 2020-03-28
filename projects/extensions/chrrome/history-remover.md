@@ -1,9 +1,15 @@
-[Home](/) | [Projects](/projects) | [About](/about)
+[Home](/) | [Projects](/projects) 
 
 
 # History Remover
 Hide Your Homework
 
 **TIP:** Use Another Browser For Homework
+	
+## Can I Contribute
+Yes, You Can Contribute [here](https://www.github.com/diligamer/history-remover)
 
-# Contribute
+## I Need Help
+Read The Wiki For Help
+
+

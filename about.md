@@ -1,4 +1,3 @@
-[Home](/) | [Projects](/projects) | [About](/about)
+[Home](/) | [Projects](/projects) 
 
-
-# About Me
+# About

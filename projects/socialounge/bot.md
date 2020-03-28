@@ -1,13 +1,13 @@
-[Home](/) | [Projects](/projects) | [About](/about)
-
+[Home](/) | [Projects](/projects) 
 
 # Socialounge's Bot
+[Bot](projects/socialounge/bot) | [Minecraft](projects/socialounge/minecraft)
 
 ## What Is It
-It is a bot that allows the moderation and entertainment of a the [Socialounge](/socialounge) Discord Server
+It is a bot that allows the moderation and entertainment of a the [Socialounge](/projects/socialounge) Discord Server
 
 ## Can I Contribute
-Yes, You Can Contribute [here](https://www.github.com/diligamer/socialounge-bot-repo)
+Yes, You Can Contribute [here](https://www.github.com/diligamer/socialounge-bot)
 
 ## I Need Help
 Help Is is launched through `sl!help`
