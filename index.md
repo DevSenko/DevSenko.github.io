@@ -7,6 +7,8 @@
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 <meta name="msapplication-TileColor" content="#000000">
 <meta name="theme-color" content="#ffffff">
+<meta property="og:type" content="website">
+<meta property="og:image" content="ogfav.png">
 </head>
 
 [Home](/) | [Projects](/projects) 
