@@ -28,4 +28,4 @@ You can Learn About our bot [here](/socialounge/bot)
 ## Shut Up And Take My "Money"
 You Can Join [Here](https://invite.gg/socialounge)
 
- <iframe src="https://discordapp.com/widget?id=385432040155119617&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0">Discord Widget</iframe>
+ <iframe src="https://discordapp.com/widget?id=385432040155119617&theme=dark" width="450" height="500" allowtransparency="true" frameborder="0">Discord Widget</iframe>
