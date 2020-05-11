@@ -14,12 +14,12 @@ A Simple Notifications Manager
 Hide Your Homework
 
 ## H Projects
-Software from the best letter to exist. [Developed by peeps from the H server.](/h-projects/devs)
+Software from the best letter to exist. [Developed by peeps from the H server.](/projects/h-projects/devs)
 
-### H Clicker
+### [H Clicker](/projects/h-projects/h-clicker)
 The cookie clicker of the best letter.
 
-### Fuck G
+### [Fuck G](/projects/h-projects/fuck-g)
 Seriously, fuck that letter. It sucks, use `Q`, don't be a `G`.
 
 ### [Hinary](/projects/h-projects/hinary)
