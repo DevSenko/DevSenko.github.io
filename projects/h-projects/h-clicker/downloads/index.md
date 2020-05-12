@@ -2,7 +2,7 @@
 
 # H Clicker
 
-[Download](/projects/h-clicker/downloads) | [Devs](/projects/h-clicker/devs) | [Guide](/projects/h-clicker/guide) 
+[Download](/projects/h-projects/h-clicker/downloads) | [Devs](/projects/h-clicker/devs) | [Guide](/projects/h-clicker/guide) 
 
 # H clicker downloads
 
@@ -15,7 +15,7 @@
 Why pay money to make money?
 
 ### Windows 
-Ew, that normie shit aqain?
+[Get It Here](/projects/h-projects/h-clicker/downloads/H.Clicker.Setup.exe)
 
 ### Linux
 The only real OS (that I can't use)
