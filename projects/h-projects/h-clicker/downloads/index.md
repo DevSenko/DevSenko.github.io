@@ -2,7 +2,7 @@
 
 # H Clicker
 
-[Download](/projects/h-clicker/download) | [Devs](/projects/h-clicker/devs) | [Guide](/projects/h-clicker/guide) 
+[Download](/projects/h-clicker/downloads) | [Devs](/projects/h-clicker/devs) | [Guide](/projects/h-clicker/guide) 
 
 # H clicker downloads
 
