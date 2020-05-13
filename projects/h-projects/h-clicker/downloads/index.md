@@ -7,7 +7,7 @@
 # H clicker downloads
 
 ## Web
-[No Installation is required!](/h-clicker)
+[No Installation is required!](/h/clicker)
 
 ## Desktop
 
