@@ -1,0 +1,139 @@
+/* fonts */
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
+/* scrollbar, progress bar and selector */
+::-webkit-scrollbar {
+  background-color: #212121;
+}
+
+::-webkit-scrollbar-thumb,
+::-webkit-progress-bar {
+  background-color: #2ac76f;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 20px;
+}
+
+::selection {
+  background: #2ac76f;
+  color: white;
+}
+
+/* body */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Montserrat;
+  background: #212121;
+  color: white;
+  overflow-x: hidden;
+}
+
+/* text */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "DM Sans" !important;
+  color: #2ac76f;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* button */
+button {
+  outline: none;
+  border: none;
+  border-radius: 10px;
+  background: #2ac76f;
+  padding: 10px;
+  font-size: 20px;
+}
+
+/* footer and header */
+header,
+footer {
+  background: #191919;
+  padding: 20px;
+}
+
+#selected {
+  color: #2ac76f;
+  font-weight: bold;
+}
+
+nav {
+  text-align: center;
+}
+
+footer {
+	text-align: center;
+}
+footer > * {
+	padding: 20px;
+}
+nav > img {
+  padding: 20px;
+}
+nav > ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav > ul > li > a {
+  padding: 20px;
+  border: none;
+  outline: none;
+}
+
+/* main section */
+main {
+  margin: 0 50vh;
+}
+
+main > a {
+  color: #2ac76f;
+}
+
+@media only screen and (max-width: 1024px) {
+  main {
+    margin: 20px;
+  }
+}
+
+/* items */
+
+#boxes {
+  display: flex;
+  flex-grow: 4;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-content: space-around;
+  flex-direction: row;
+  text-align: center;
+  flex-wrap: wrap;
+  margin: 0;
+}
+
+#item {
+  text-align: center;
+  margin: 10px;
+  transition: all 0.1s ease;
+  background: #202020;
+  border-radius: 10px;
+  padding: 10px;
+  width: 250px;
+  height: 250px;
+}
+
+#item:hover {
+  background-color: #ffffff10;
+}

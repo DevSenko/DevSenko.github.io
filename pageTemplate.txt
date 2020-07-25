@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en" charset="UTF-8">
+
+<head>
+	<!-- seo -->
+	<title>Senko Dev | Page Name</title>
+	<!-- css -->
+	<link rel="stylesheet" type="text/css" href="./assets/css/index.css" />
+	<link rel="stylesheet" type="text/css" href="./home.css" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+	<header>
+		<nav>
+			<img src="./assets/images/logo.png" width="64" height="64" />
+			<ul>
+				<li>
+					<a href="/" id="selected">Home</a>
+					<a href="./projects">Projects</a>
+					<a href="./about">About</a>
+					<a href="./contact">Contact</a>
+				</li>
+			</ul>
+		</nav>
+	</header>
+	<div id="hero">
+		<div id="hero-content">
+			<div id="value-prop">
+				<h1>I make experinces that convert</h1>
+				<p>I am fluent in HTML, CSS, JS and Figma. I also know git.</p>
+				<a href="/projects"><button>See my work</button></a>
+			</div>
+
+		</div>
+	</div>
+	<main>
+
+	</main>
+	<footer>
+		<nav>
+			<ul>
+				<a href="https://h-projects.github.io">Aytch Software</a>
+			</ul>
+		</nav>
+		Copyright &copy; SenkoDev 2020. All rights reserved. Aytch Software is a trademark of Aytch Software.
+	</footer>
+</body>
+
+</html>
