@@ -1,0 +1,38 @@
+section:before {
+    height: 90px;
+    content: "";
+    display: block;
+}
+
+section {
+    padding: 40px 0;
+}
+
+.needs-vh {
+    margin: 0 37.5vh;
+}
+
+@media only screen and (max-width: 1024px) {
+	.needs-vh {
+		margin: 20px;
+	}
+}
+
+/* --- */
+.about {
+    text-align: center;
+    padding: 40px 0;
+}
+
+.about-info {
+    margin-bottom: 40px;
+    padding: 55px;
+    height: 175px;
+    background: black;
+    color: white;
+    line-height: 35px;
+}
+
+.about-info p {
+    margin: 0 37.5vh;
+}
