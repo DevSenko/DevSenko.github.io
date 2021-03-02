@@ -28,3 +28,16 @@
 	width: 250px;
 }
 
+/* --- */
+
+.page-title{
+	height: 300px;
+	display: flex;
+	color: white;
+	justify-content: center;
+	align-items: center;
+}
+
+.page-title h1 {
+	font-size: 55px;
+}
