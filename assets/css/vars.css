@@ -1,4 +1,7 @@
 body {
+	--bg: #ffffff;
+	--text: #000000;
 	--accent: #F57C96;
-	--hover: #ffffff10;
+	--hover: #00000010;
+	--item: #f0f0f0;
 }

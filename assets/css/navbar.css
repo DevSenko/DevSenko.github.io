@@ -4,17 +4,22 @@
     width: 100%;
     top: 0;
     z-index: 100;
-    background: black;
+    background: white;
     transition: all 0.6s ease;
 }
 
-.navbar .container {
+.navbar .container, footer .container {
     margin: 0 37.5vh;
     text-align: center;
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 20px;
+}
+
+footer {
+    background: black;
+    color: white;
 }
 
 .navbar .container .logo {
@@ -33,11 +38,15 @@
 
 .navbar .container .nav-links .menu li a {
     font-weight: 600;
-   	color: var(--accent);
+    color: var(--accent);
 }
 
 .navbar .container .nav-links .menu li a:hover {
     color: var(--accent);
     border-bottom: 2px solid var(--accent);
     border-radius: 2px;
+}
+
+.navbar-shadow {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }

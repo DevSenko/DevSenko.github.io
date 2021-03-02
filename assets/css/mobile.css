@@ -1,0 +1,36 @@
+@media (max-width: 830px) {
+    .hero {
+      padding-top: 50px;
+      height: 600px;
+    }
+    .hero .container {
+      flex-direction: column-reverse;
+      align-items: center;
+    }
+    .hero .container .main-info {
+      width: 100%;
+      max-width: 100%;
+      align-self: center;
+      text-align: center;
+    }
+    .hero .container .main-info h1 {
+      font-size: 28px;
+    }
+
+    .navbar {
+      height: 125px;
+    }
+    .navbar .container {
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    footer {
+      height: 95px;
+    }
+    footer .container {
+      padding: 5px;
+      flex-direction: column;
+    }
+  }
+  
