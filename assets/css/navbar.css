@@ -1,0 +1,43 @@
+.navbar {
+    height: 86px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 100;
+    background: black;
+    transition: all 0.6s ease;
+}
+
+.navbar .container {
+    margin: 0 37.5vh;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.navbar .container .logo {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.navbar .container .nav-links .menu {
+    display: flex;
+    list-style-type: none;
+}
+
+.navbar .container .nav-links .menu li {
+    padding: 10px;
+}
+
+.navbar .container .nav-links .menu li a {
+    font-weight: 600;
+   	color: var(--accent);
+}
+
+.navbar .container .nav-links .menu li a:hover {
+    color: var(--accent);
+    border-bottom: 2px solid var(--accent);
+    border-radius: 2px;
+}

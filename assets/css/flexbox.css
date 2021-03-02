@@ -1,0 +1,41 @@
+#boxes {
+	display: flex;
+	flex-grow: 4;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-content: space-around;
+	flex-direction: row;
+	text-align: center;
+	flex-wrap: wrap;
+	margin: 0;
+}
+
+#item {
+	text-align: center;
+	margin: 10px;
+	transition: all 0.1s ease;
+	background: #181818;
+	border-radius: 10px;
+	padding: 10px;
+	width: 250px;
+	height: 250px;
+}
+
+#item:hover {
+	background-color: var(--hover);
+}
+
+#small-item {
+	text-align: center;
+	margin: 10px;
+	transition: all 0.1s ease;
+	background: #202020;
+	border-radius: 10px;
+	padding: 10px;
+	width: 250px;
+	height: 250px;
+}
+
+#small-item:hover {
+	background-color: var(--hover);
+}

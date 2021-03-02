@@ -1,24 +1,29 @@
-/* hero */
-#hero {
-	background-image: url(https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1920&q=50);
-	background-repeat: no-repeat;
-	height: 75vh;
-	display: flex;
-	flex-direction: column;
-	align-items: left;
-	justify-content: center;
-	
-}
-#hero-content {
-	margin: 0 50vh;
+.hero {
+	margin: 100px auto;
 }
 
-@media only screen and (max-width: 1024px) {
-	#hero-content{
-		margin: 20px;
-	}
+.hero .container {
+	display: flex;
+	justify-content: space-between;
+	margin: 0 37.5vh;
 }
-/* merge header with hero */
-header {	
-	background: black;
+
+.hero .container .main-info {
+	width: 60%;
+	max-width: 415px;
+	padding: 20px;
+}
+
+.hero .container .main-info h1 {
+	font-size: 35px;
+	line-height: 50px;
+}
+
+.hero .container .main-info p {
+	font-size: 18px;
+	margin: 15px 0;
+}
+
+.hero .container .img img {
+	width: 250px;
 }
