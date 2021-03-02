@@ -36,3 +36,18 @@ section {
 .about-info p {
     margin: 0 37.5vh;
 }
+
+@media only screen and (max-width: 1024px) {
+    .about-info {
+        margin-bottom: 40px;
+        padding: 55px;
+        height: 325px;
+        background: black;
+        color: white;
+        line-height: 35px;
+    }
+
+	.about-info p {
+		margin: 20px;
+	}
+}
