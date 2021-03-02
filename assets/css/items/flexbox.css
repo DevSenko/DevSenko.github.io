@@ -1,0 +1,15 @@
+@import url("./items.css");
+@import url("./small-items.css");
+
+.boxes {
+	display: flex;
+	flex-grow: 4;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-content: space-around;
+	flex-direction: row;
+	text-align: center;
+	flex-wrap: wrap;
+	margin: 0;
+}
+
