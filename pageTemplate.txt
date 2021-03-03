@@ -10,6 +10,7 @@
 	<link rel="stylesheet" type="text/css" href="/assets/css/flexbox.css" />
 	<!-- js -->
 	<script src="/assets/js/index.js"></script>
+	<script src="https://kit.fontawesome.com/caad7a32db.js" crossorigin="anonymous"></script>
 	<!-- width -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
@@ -24,7 +25,7 @@
 				<div class="nav-links">
 					<ul class="menu">
 						<li>
-							<a href="/" id="selected">Home</a>
+							<a href="./chillize">Chillize</a>
 						</li>
 						<li>
 							<a href="./projects">Projects</a>
@@ -48,9 +49,14 @@
 	</main>
 	<footer>
 		<div class="container">
-			<p>Copyright &copy; Laura Breckams 2020.</p>
-			<ul>
-				<a href="https://h-projects.github.io">Aytch Software</a>
+			<p>Copyright &copy; Laura Breckams 2021.</p>
+			<ul class="icons">
+				<a href="https://www.twitter.com/DevSenko/" target="_blank"><i class="fab fa-twitter circle-icon"
+						aria-hidden="true"></i></a>
+				<a href="https://www.github.com/DevSenko/" target="_blank"><i class="fab fa-github circle-icon"
+						aria-hidden="true"></i></a>
+				<a href="https://medium.com/@DevSenko" target="_blank"><i class="fab fa-medium circle-icon"
+						aria-hidden="true"></i></a>
 			</ul>
 		</div>
 	</footer>

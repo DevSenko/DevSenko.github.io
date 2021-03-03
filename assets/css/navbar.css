@@ -50,3 +50,8 @@ footer {
 .navbar-shadow {
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
+
+footer .container .icons i {
+    font-size: 22px;
+    padding: 10px;
+  }

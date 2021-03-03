@@ -26,6 +26,10 @@
 	color: var(--text);
 }
 
+* {
+	box-sizing: border-box;
+}
+
 /* body */
 body {
 	font-family: "Poppins";
@@ -51,12 +55,6 @@ a {
 	text-decoration: none;
 }
 
-#laura {
-	text-transform: uppercase;
-	font-family: "DM Sans" !important;
-
-}
-
 /* button */
 button,
 .cta {
@@ -69,12 +67,16 @@ button,
 	cursor: pointer;
 	color: black;
 	transition: all 0.1s ease;
+	margin-top: 5px;
+	font-family: "Poppins";
+	font-weight: 500;
 }
 
 button:hover,
 .cta:hover {
 	background: var(--hover);
 	color: black;
+	box-shadow: 0 5px 10px #00000040;
 }
 
 /* footer and header */
@@ -82,8 +84,8 @@ button:hover,
 	color: var(--accent);
 	font-weight: bold;
 }
-/* main section */
 
+/* main section */
 main>a {
 	color: #2ac76f;
 }

@@ -21,7 +21,7 @@ Socialounge Is A Chill and Social Discord Server Where You Can Speak About Anyth
 ## Leaderboard
  <iframe src="https://unbelievaboat.com/leaderboard/385432040155119617/widget" width="450" height="500" style="border: 0;">Currency Leaderboard</iframe>
                                                                                      
-
+    
 ## Our Bot
 You can Learn About our bot [here](/socialounge/bot)	
 

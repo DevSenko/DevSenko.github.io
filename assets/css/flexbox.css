@@ -1,4 +1,4 @@
-#boxes {
+.boxes {
 	display: flex;
 	flex-grow: 4;
 	flex-wrap: wrap;
@@ -10,7 +10,7 @@
 	margin: 0;
 }
 
-#item {
+.item {
 	text-align: center;
 	margin: 10px;
 	transition: all 0.1s ease;
@@ -21,11 +21,12 @@
 	height: 250px;
 }
 
-#item:hover {
+.item:hover {
 	background-color: var(--hover);
+	box-shadow: 0 5px 10px #00000040;
 }
 
-#small-item {
+.small-item {
 	text-align: center;
 	margin: 10px;
 	transition: all 0.1s ease;
@@ -33,9 +34,10 @@
 	border-radius: 10px;
 	padding: 10px;
 	width: 250px;
-	height: 250px;
+	height: 175px;
 }
 
-#small-item:hover {
+.small-item:hover {
 	background-color: var(--hover);
+	box-shadow: 0 5px 10px #00000040;
 }
